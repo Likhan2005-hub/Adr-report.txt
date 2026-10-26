@@ -1,0 +1,25 @@
+Title: ADR Reporting & Documentation Form (CIOMS / Individual Case Safety Report Style)
+
+1. Patient Information:
+* Patient Initials / ID: R.S. (Male)
+* Age: 45 years
+* Weight: 70 kg
+
+2. Suspected Adverse Reaction (ADR):
+* Reaction Name: Severe Dry Cough and Mild Angioedema
+* Date of Onset: 3 days after starting therapy
+* Description of Reaction: Patient developed a persistent, non-productive dry cough and mild swelling of the lips within 24 hours of taking the medication, which progressively worsened.
+
+3. Suspected Medicinal Product (Drug):
+* Drug Name: Enalapril (Tablet, 10 mg)
+* Indication: Hypertension (High Blood Pressure)
+* Dose / Route / Frequency: 10 mg / Oral / Once daily
+* Therapy Dates: Started 3 days ago
+
+4. Concomitant Medications (Other drugs taken):
+* None reported.
+
+5. Action Taken & Outcome:
+* Action with Drug: Drug was withdrawn / discontinued immediately.
+* Outcome: Symptoms resolved within 48 hours after stopping the medication.
+* Assessment: Probable/Likely adverse drug reaction related to ACE inhibitor therapy.
